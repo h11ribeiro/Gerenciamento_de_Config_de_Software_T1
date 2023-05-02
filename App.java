@@ -9,7 +9,9 @@ public class App {
             System.out.println("Digite o valor de T: ");
             int t = in.nextInt();
 
-            
+            int calculo = v * 2 * t;
+
+            System.out.println(calculo);
         }
     }
 }
