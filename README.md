@@ -1,6 +1,10 @@
 # Gerenciamento_de_Config_de_Software_T1
 Gerenciamento de Config. de Software T1
- Questao 1197 
+
+Grupo: Henrique Ribeiro, Ruan Oliveira e Kauã Souza
+
+####Questao 1197 
+
 Volta à Faculdade de Física
 Por Shahriar Manzoor  Bangladesh
 
