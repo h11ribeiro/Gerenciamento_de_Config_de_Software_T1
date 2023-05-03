@@ -1,7 +1,7 @@
 # Gerenciamento_de_Config_de_Software_T1
 Gerenciamento de Config. de Software T1
 
-Grupo: Henrique Ribeiro, Ruan Oliveira e Kauã Souza
+Grupo: Henrique Ribeiro, Ruan Oliveira e Kauã Souza.
 
 ####Questao 1197 
 
